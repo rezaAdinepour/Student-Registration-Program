@@ -12,4 +12,5 @@ This application is written for Windows.
 
 ## Result
 The entered information is saved in <code>student.txt</code>.
+![image](Images/4.png)
 
