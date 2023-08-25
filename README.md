@@ -6,6 +6,9 @@ This application is written for Windows.
 ## TechStack/framework used
 - C++
 - [Microsoft Foundation Class](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) (MFC)
+
+## Installation
+Create a Dialogue based MFC application and add this files in your project.
   
 ## User Interface
 ![image](Images/1.png)
