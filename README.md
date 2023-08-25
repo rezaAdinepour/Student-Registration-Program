@@ -3,3 +3,7 @@ In this application, which is written in C++ and MFC API, you can receive user r
 
 ## User Interface
 ![image](Images/1.png)
+
+## TechStack/framework used
+- C++
+- [Microsoft Foundation Class](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170)()MFC
