@@ -14,3 +14,5 @@ This application is written for Windows.
 The entered information is saved in <code>student.txt</code>.
 ![image](Images/4.png)
 
+## License
+This project is licensed under the [MIT License](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/blob/main/LICENSE).
