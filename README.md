@@ -6,7 +6,7 @@ This application is written for Windows.
 ## TechStack/framework used
 - C++
 - [Microsoft Foundation Class](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) (MFC)
-- 
+  
 ## User Interface
 ![image](Images/1.png)
 
